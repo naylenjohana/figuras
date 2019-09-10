@@ -1,9 +1,0 @@
-C:\Users\estudiantes\source\repos\Figura\Figura\bin\Debug\netstandard2.0\Figura.deps.json
-C:\Users\estudiantes\source\repos\Figura\Figura\bin\Debug\netstandard2.0\Figura.dll
-C:\Users\estudiantes\source\repos\Figura\Figura\bin\Debug\netstandard2.0\Figura.pdb
-C:\Users\estudiantes\source\repos\Figura\Figura\obj\Debug\netstandard2.0\Figura.csprojAssemblyReference.cache
-C:\Users\estudiantes\source\repos\Figura\Figura\obj\Debug\netstandard2.0\Figura.csproj.CoreCompileInputs.cache
-C:\Users\estudiantes\source\repos\Figura\Figura\obj\Debug\netstandard2.0\Figura.AssemblyInfoInputs.cache
-C:\Users\estudiantes\source\repos\Figura\Figura\obj\Debug\netstandard2.0\Figura.AssemblyInfo.cs
-C:\Users\estudiantes\source\repos\Figura\Figura\obj\Debug\netstandard2.0\Figura.dll
-C:\Users\estudiantes\source\repos\Figura\Figura\obj\Debug\netstandard2.0\Figura.pdb
