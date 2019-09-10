@@ -1,4 +1,4 @@
 # figuras
-Naylen Rodriguez
-Daniel Rodriguez
-Yorlany casadiegos
+## Naylen Rodriguez
+## Daniel Rodriguez
+## Yorlany casadiegos
