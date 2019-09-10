@@ -1,0 +1,5 @@
+C:\Users\nrodriguez\Downloads\figuras-master\figuras-master\Figura\Figuras\bin\Debug\Figuras.dll
+C:\Users\nrodriguez\Downloads\figuras-master\figuras-master\Figura\Figuras\bin\Debug\Figuras.pdb
+C:\Users\nrodriguez\Downloads\figuras-master\figuras-master\Figura\Figuras\obj\Debug\Figuras.csprojResolveAssemblyReference.cache
+C:\Users\nrodriguez\Downloads\figuras-master\figuras-master\Figura\Figuras\obj\Debug\Figuras.dll
+C:\Users\nrodriguez\Downloads\figuras-master\figuras-master\Figura\Figuras\obj\Debug\Figuras.pdb
